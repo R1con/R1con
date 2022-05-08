@@ -6,7 +6,7 @@
 ![Sql](https://img.shields.io/badge/-SQL-3C3F41?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ### Contact
-[telegram_link]: https://t.me/halp3ars
+[telegram_link]: https://t.me/R1con
 <a  href="https://t.me/R1con" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 <details>
