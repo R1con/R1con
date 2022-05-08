@@ -8,3 +8,10 @@
 ### Contact
 [telegram_link]: https://t.me/halp3ars
 <a  href="https://t.me/R1con" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+
+<details>
+  <summary> 🥇 GitHub Stats</summary>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=R1con&show_icons=true&theme=dracula)
+
+</details>
